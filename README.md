@@ -1,10 +1,10 @@
-#### Hello World! 👋
+# Hello World! 👋
 
 Welcome to my GitHub profile! 🚀
 
-## About Me ℹ️
+## 🌐 About Me 
 
-I'm [Your Name], a [Your Profession/Interests]. I'm passionate about [Your Interests] and always eager to learn new things.
+Hey there! I'm [Your Name], a [Your Profession/Interests]. I'm passionate about [Your Interests] and always eager to learn new things.
 
 ## Currently ✨
 
