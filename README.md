@@ -1,17 +1,15 @@
-# Hello World! 👋
+# Hello World! 👋 🤖💻
 
 Welcome to my GitHub profile! 🚀
 
 ## 🌐 About Me 
 
-Hey there! I'm [Your Name], a [Your Profession/Interests]. I'm passionate about [Your Interests] and always eager to learn new things.
+Hey there! I'm [GODAVARI LAKSHMI MOUNIKA], a [Student]. I am passionate about [machine learning and web development] and always i want to  exploring new technology and learn new things.
 
 ## Currently ✨
 
 🔭 I'm currently working on [Project/Task]
 🌱 I'm currently learning [Technology/Subject]
-👯 I'm looking to collaborate on [Project/Idea]
-🤔 I'm looking for help with [Problem/Challenge]
 💬 Ask me about [Topic/Interest]
 📫 How to reach me: [Your Email/Website/Contact Info]
 😄 Pronouns: [Your Pronouns]
